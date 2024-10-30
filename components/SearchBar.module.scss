@@ -3,7 +3,7 @@
     padding: 20px;
     margin: 10px;
     border: 2px solid #ccc; /* Example border color from SVG */
-    border-radius: 25px; /* Example border radius from SVG */
+    border-radius: 35px; /* Example border radius from SVG */
     background-color: #f9f9f9; /* Example background color from SVG */
     font-size: 16px; /* Example font size */
     color: #333; /* Example text color */
@@ -14,9 +14,11 @@
     text-align: center;
     color: #000;
     font-weight: bold;
+    display: none
   }
 
 .container {
     display: flex;
     justify-content: center;
 }
+
